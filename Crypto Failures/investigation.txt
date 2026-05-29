@@ -1,0 +1,59 @@
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.7 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 57:2c:43:78:0c:d3:13:5b:8d:83:df:63:cf:53:61:91 (ECDSA)
+|_  256 45:e1:3c:eb:a6:2d:d7:c6:bb:43:24:7e:02:e9:11:39 (ED25519)
+80/tcp open  http    Apache httpd 2.4.59 ((Debian))
+|_http-server-header: Apache/2.4.59 (Debian)
+|_http-title: Did not follow redirect to /
+	Device type: general purpose
+	Running: Linux 4.X
+	OS CPE: cpe:/o:linux:linux_kernel:4.15
+	OS details: Linux 4.15
+	Network Distance: 2 hops
+	Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+
+
+<!-- TODO remember to remove .bak files-->
+
+LkkUePzUEe59QLKbOYJ3/dpU7MLKihP.wuuG9C6LK96u37WSgCiMLK7J/U9cx8iHQLKJEjBoxrOTeoLKg8esl0.7g2ELK1eH7qEcN/mYLKyvfMR4nj4BcLKJTICAbMKW/gLKk9YIKIbDB.kLKLlKuYXPP6hMLKPFj97lXWKWsLKWfCz2A/Slv.LK36HLr85D8LYLKOS36yt7ztAMLKSfMpQ2pB0WoLKXIoX9t3L5foLKMVrtW3uSJLoLK.LZlbJq4h/kLKCxumttHmZssLKJS9Aq0L8CAgLK7JOzUiMJRKELKnqdygVWl1mkLK/RSUNBtQRl.LKk7bNd5lRcUwLK/ZXb7aJ5zTULKHdIW3N3hOwsLKFuuEMEyGZHkLK4jVD7MPzjGMLK3XQ/3f4JlAMLKf8SGSn6cEnkLKdZPv0M8Tp/k
+
+guest:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36:<ENC_SECRET_KEY>
+
+
+
+guest:Mo	OmRJasG77crdE
+zilla/5.	Om25CZy92O2SQ
+0 (X11; 	Om6iVL8ghlHC6
+Linux x8	OmND/I2WESlsA
+6_64) Ap	Om/JSoA.AqGYw
+pleWebKi	OmWvX3ZAZGdBc
+t/537.36	OmjcHJk5OEE72
+(KHTML, 	OmbqhQ2kukWk.
+like Gec	OmAfNjbvkjQMY
+ko) Chro	Omup9REF1kJWo
+me/137.0	OmljJ/6qaO4wQ
+.0.0 Saf	OmwZuJN.w/plY
+ari/537.	OmhV3LIPnRiWw
+36:<ENC_	Om.3vBHA5ZTsM
+SECRET_K	Om2p4xmTtA/bU
+EY>		OmWu5ApfFpJN6
+		Om0GHadABKuSw
+		Om01Z3bRagrms
+		OmCuaoZljh3Hw
+		OmhtMVgLDGzok
+		OmLFYsfA2Ps2k
+		OmJoNfgbtumqM
+		OmJbEHcL..Vh.
+		Om5lVAUtMlkjA
+		OmAHVSY4nQUgM
+		OmToTbGzIJ66o
+		OmvZHxc3xna7Q
+		Om8yIURXWvLNI
+		Omx/eVTuHE8ag
+		OmLmVdO.bfRbI
+		Om2eBvEvLKGvs
+		OmOowniI7NvUg
+		OmGgff52QSmsI
+

